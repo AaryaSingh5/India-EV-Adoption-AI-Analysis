@@ -1,4 +1,4 @@
-# 🇮🇳 India’s EV Adoption & ICE-to-EV Transition  
+#  India’s EV Adoption & ICE-to-EV Transition Analysis
 ### An AI-Driven State-wise Analysis
 
 This project presents a **data-driven and AI-powered framework** to analyze and forecast India's transition from Internal Combustion Engine (ICE) vehicles to Electric Vehicles (EVs) at a **state-wise level**.
