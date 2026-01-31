@@ -67,7 +67,7 @@ Develop an **AI-driven analytical framework** to forecast EV adoption for the ne
 
 ## 👩‍💻 Author
 
-**Aarya**  
+**Aarya**  **Jahnvee** **Anaisha** 
 AI | Data Science | EV & Sustainability Research  
 
 ---
