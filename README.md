@@ -72,13 +72,9 @@ AI | Data Science | EV & Sustainability Research
 
 ---
 
-## ⭐ How to Run
+## 📊 Live Dashboard
 
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-python "eda and features engineering.py"
-python "predictive model for ev.py"
+🔗 View the interactive dashboard here:  
+👉 [https://public.tableau.com/views/EVAdoptionIndia/Dashboard1](https://public.tableau.com/views/EVvsICE/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
-## 📂 Project Structure
 
